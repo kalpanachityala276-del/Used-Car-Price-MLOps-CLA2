@@ -1,0 +1,25 @@
+{
+  "model_name": "UsedCarPriceRandomForest",
+  "versions": [
+    {
+      "version": 1,
+      "model_file": "artifacts/models/RandomForest.joblib",
+      "stage": "Archived",
+      "status": "Validated",
+      "dataset_sha256": "bf5dd05fb602edaf64d8e7936ed20a594995449954f49ce666445bf7b1253b42",
+      "registered_at": "2026-09-30T04:53:10",
+      "preprocessing_dependency": "src/data_utils.py + scikit-learn Pipeline"
+    },
+    {
+      "version": 2,
+      "model_file": "artifacts\\models\\RandomForest.joblib",
+      "stage": "Production",
+      "status": "Validated",
+      "dataset_sha256": "bf5dd05fb602edaf64d8e7936ed20a594995449954f49ce666445bf7b1253b42",
+      "registered_at": "2026-09-30T10:49:58",
+      "preprocessing_dependency": "src/data_utils.py + scikit-learn Pipeline"
+    }
+  ],
+  "current_staging_version": 2,
+  "production_version": 2
+}

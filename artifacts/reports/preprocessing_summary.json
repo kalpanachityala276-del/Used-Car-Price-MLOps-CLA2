@@ -1,0 +1,19 @@
+{
+  "rows_before": 20,
+  "rows_after_duplicates": 19,
+  "train_rows": 15,
+  "test_rows": 4,
+  "columns": [
+    "Car_Name",
+    "Year",
+    "Selling_Price",
+    "Present_Price",
+    "Kms_Driven",
+    "Fuel_Type",
+    "Seller_Type",
+    "Transmission",
+    "Owner"
+  ],
+  "dataset_sha256": "bf5dd05fb602edaf64d8e7936ed20a594995449954f49ce666445bf7b1253b42",
+  "current_year_for_car_age": 2026
+}

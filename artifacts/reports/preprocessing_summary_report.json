@@ -1,0 +1,14 @@
+{
+  "train_shape": [
+    15,
+    10
+  ],
+  "test_shape": [
+    4,
+    10
+  ],
+  "same_feature_count": true,
+  "train_nulls": 0,
+  "test_nulls": 0,
+  "passed": true
+}

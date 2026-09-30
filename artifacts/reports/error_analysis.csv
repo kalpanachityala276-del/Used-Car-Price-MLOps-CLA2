@@ -1,0 +1,5 @@
+Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner,Car_Age,Actual_Selling_Price,Predicted_Selling_Price,Absolute_Error
+9.54,43000,Diesel,Dealer,Manual,0,13,4.75,7.121000000000006,2.3710000000000058
+9.83,2071,Diesel,Dealer,Manual,0,8,9.25,7.431250000000001,1.8187499999999988
+10.38,51000,Diesel,Dealer,Manual,0,11,6.85,7.4760000000000035,0.6260000000000039
+5.59,27000,Petrol,Dealer,Manual,0,12,3.35,3.815500000000009,0.4655000000000089

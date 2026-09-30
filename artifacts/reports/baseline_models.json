@@ -1,0 +1,18 @@
+[
+  {
+    "Model":"LinearRegression",
+    "Status":"trained"
+  },
+  {
+    "Model":"DecisionTree",
+    "Status":"trained"
+  },
+  {
+    "Model":"RandomForest",
+    "Status":"trained"
+  },
+  {
+    "Model":"GradientBoosting",
+    "Status":"trained"
+  }
+]
